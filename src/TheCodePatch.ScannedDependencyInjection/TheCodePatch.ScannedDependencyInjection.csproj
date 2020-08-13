@@ -8,6 +8,11 @@
   </PropertyGroup>
   <PropertyGroup>
     <TargetFramework>netstandard2.1</TargetFramework>
+    <PackageId>TheCodePatch.ScannedDependencyInjection</PackageId>
+    <Version>1.0.0</Version>
+    <Company>The Code Patch</Company>
+    <PackageTags>Dependency Injection</PackageTags>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
   <ItemGroup>
     <ProjectReference Include="..\TheCodePatch.ScannedDependencyInjection.Annotations\TheCodePatch.ScannedDependencyInjection.Annotations.csproj" />

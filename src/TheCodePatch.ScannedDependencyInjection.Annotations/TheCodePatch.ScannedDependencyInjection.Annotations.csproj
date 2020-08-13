@@ -8,5 +8,10 @@
   </PropertyGroup>
   <PropertyGroup>
     <TargetFramework>netstandard2.1</TargetFramework>
+    <PackageId>TheCodePatch.ScannedDependencyInjection.Annotations</PackageId>
+    <Version>1.0.0</Version>
+    <Company>The Code Patch</Company>
+    <PackageTags>Dependency Injection</PackageTags>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 </Project>
